@@ -1,4 +1,4 @@
-# Huamin - ML practise
+# HM - ML practise
 
 1，Building a Voice Agent AI Assistant
   I designed and implemented an end-to-end voice agent pipeline using FastAPI. The system integrated Whisper for speech recognition, a local LLaMA 3 model for multi-turn dialogue generation, and CozyVoice for speech synthesis. The project gave me hands-on experience in building multi-modal systems, optimizing latency, and designing for natural human-AI interaction.
