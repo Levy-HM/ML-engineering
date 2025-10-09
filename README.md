@@ -6,4 +6,4 @@
 2，Training a Large Language Model
   I set up and trained a small-scale large language model on an GPU on inference.ai, building the full pipeline from data collection and cleaning (language detection, deduplication, PII removal) to supervised fine-tuning and LoRA adaptation. This project strengthened my understanding of large-scale training, data engineering, and optimization trade-offs, while also demonstrating resilience in working under resource constraints.
 
-3, RAG,SFT practice
+3,  RAG, SFT, Alignment practice
